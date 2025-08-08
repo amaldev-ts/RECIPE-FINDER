@@ -51,48 +51,20 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](img1.png)
-*Add caption explaining what this shows*
+Image 1:
+The Recipe Finder interface showing ingredient selection checkboxes under the "Fruits & Vegetables" and "Grains, Flour & Legumes" categories, with Banana and Pasta selected.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](img2.png)
+Image 2:
+The Recipe Finder interface scrolled further down, showing selected ingredients Banana, Pasta, Sugar, and Milk across multiple categories.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+![Screenshot3](img3.png)
+Image 3:
+The Recipe Finder interface displaying a matched recipe — "Banana Milkshake" — based on the selected ingredients Banana, Milk, and Sugar, along with preparation steps.
 
 ## Team Contributions
-- AMAL DEV T S: Project architecture, JavaScript logic, recipe database
-- AMAL P ANIL: UI design, CSS animations, documentation
+- AMAL DEV T S: Project architecture, JavaScript logic,documentation
+- AMAL P ANIL: UI design, CSS animations
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
